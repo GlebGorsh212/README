@@ -54,9 +54,9 @@ Focused on clean architecture, performance, API design and system reliability.
 
 <ul>
   <li>
-Containerized and deployed 5 core microservices with Docker and Kubernetes (Helm charts, liveness/readiness probes, CPU-based HPA) — enabled zero-downtime rolling updates and automatic scaling during 2–3× daily traffic spikes.</li>
-  
+Containerized and deployed 5 core microservices with Docker and Kubernetes (Helm charts, liveness/readiness probes, CPU-based HPA) — enabled zero-downtime rolling updates and automatic scaling during 2–3× daily traffic spikes.</li> 
+  <br>
   <li>Decomposed a monolithic order module into three microservices (Spring Boot + Spring Cloud). Used Feign for sync inter-service calls and Kafka for async stock updates — reduced deployment cycle time by 27.3% and significantly improved fault isolation under peak load.</li>
-  
+  <br>
   <li>Optimized a high-traffic product catalog endpoint in Spring Boot + PostgreSQL. Replaced N+1 and multiple queries with a single JOIN FETCH query + composite indexes — reduced average response time from 840 ms to ~190 ms.</li>
 </ul>
