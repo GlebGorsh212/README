@@ -15,22 +15,16 @@
 </h2>
 
 <a href="https://www.linkedin.com/in/gleb-gorshanov-840463377/">
-  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdev%3Fid%3D6860682062931868151%26hl%3Dru&opi=89978449" />
-  <p>LinkedIn</p>
+  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fcoopsandcareers.wit.edu%2Fblog%2F2022%2F08%2F12%2Fthe-benefits-of-using-linkedin-for-your-career%2F&opi=89978449" />
 </a>
 
 ---
 
-### 👩🏾‍💻 Обо мне
+### 👩🏾‍💻 About me
 
-Я full-stack разработчица, технический писатель и организатор комьюнити.  
-Люблю делать сложные вещи понятными, создавать полезный контент и помогать людям входить в tech.
-
-- 🔭 Сейчас работаю над open-source проектами и техническими туториалами  
-- 🌱 Учусь продвинутому TypeScript + Rust  
-- 👩🏾‍🏫 Веду технический блог и YouTube-канал  
-- 🤝 Помогаю организовывать мероприятия для underrepresented групп в IT  
-- 📚 Пишу статьи на [личный сайт](https://www.monicapowell.com) и [Dev.to](https://dev.to/monicadev)
+Backend developer with 5+ years of experience building reliable, scalable server-side applications.
+Specialize in java, PostgreSQL, Redis and Kafka.
+Focused on clean architecture, performance, API design and system reliability.
 
 ---
 
