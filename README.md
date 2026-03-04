@@ -14,9 +14,16 @@
   Backend developer
 </h2>
 
-<a href="https://www.linkedin.com/in/gleb-gorshanov-840463377/">
-  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fcoopsandcareers.wit.edu%2Fblog%2F2022%2F08%2F12%2Fthe-benefits-of-using-linkedin-for-your-career%2F&opi=89978449" />
-</a>
+---
+<p align="center">
+  <a href="https://github.com/GlebGorsh212">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gleb-gorshanov-840463377/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
