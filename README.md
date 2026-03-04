@@ -1,7 +1,7 @@
 # README
 <p align="center">
   <img 
-    src="/home/gleb/ForLinkedIn/Github/1772432726094.jpeg" 
+    src="https://media.licdn.com/dms/image/v2/D4D03AQF3GWCzu2nMeA/profile-displayphoto-scale_200_200/B4DZytOQ8qIUAY-/0/1772432726094?e=1774483200&v=beta&t=BhJakljWz3igX8C7Zn0qdx3Wxoqdvw8Nw2k6eqqKw0A" 
     width="180" 
     height="180" 
     style="border-radius:50%; object-fit:cover; margin: 20px 0;"
