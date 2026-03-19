@@ -36,7 +36,7 @@ Focused on clean architecture, performance, API design and system reliability.
 
 ---
 
-### 🛠 Технологии, с которыми работаю чаще всего
+### 🛠 My stack
 
 <ul>
   <li>Java</li>
